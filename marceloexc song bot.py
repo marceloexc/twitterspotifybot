@@ -2,6 +2,7 @@ import spotipy
 import spotipy.util as util
 import tweepy
 import pyperclip
+
 import os
 import json
 username1 = "zanealgogh"
